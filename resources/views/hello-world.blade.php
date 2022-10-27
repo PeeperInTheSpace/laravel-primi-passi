@@ -23,6 +23,8 @@
             </p>
         @endforeach
 
+
+        <a href="{{url('/links')}}">Links</a>
     </body>
 
 </html>
